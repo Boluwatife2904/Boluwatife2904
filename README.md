@@ -9,7 +9,7 @@ I really care about doing great work and improving my craft over time and that's
 *   🌍  I'm based in Lagos, Nigeria
 *   🖥️  See my portfolio at [Personal Portfolio🚀](http://sanusi-victor.netlify.app)
 *   ✉️  You can contact me at [sanvicola2000@gmail.com](mailto:sanvicola2000@gmail.com)
-*   🚀  I'm currently working on [RoomsHouse](http://roomshouse.vercel.app)
+*   🚀  I'm currently working on [Shoppe](http://shoppe-ecommerce.vercel.app)
 *   🧠  I'm learning NuxtJS, TypeScript, TailwindCSS
 *   🤝  I'm open to collaborating on really interesting and challenging projects😎
 *   ⚡  I'm a VueJS Lover through and through💚 and You'll always find me preaching its gospel😄
