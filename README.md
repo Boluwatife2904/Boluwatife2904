@@ -6,10 +6,10 @@ Frontend Engineer
 
 I really care about doing great work and improving my craft over time and that's why you'll always find me on my computer taking on new challenges or learning something new and when I'm not doing either of the two, you'll find me listening to good music, watching movies or playing games.
 
-*   🌍  I'm based in Lagos, Nigeria
+*   🌍  I'm currently based in Lagos, Nigeria
 *   🖥️  See my portfolio at [Personal Portfolio🚀](http://sanusi-victor.netlify.app)
 *   ✉️  You can contact me at [sanvicola2000@gmail.com](mailto:sanvicola2000@gmail.com)
-*   🚀  I'm currently working on [Shoppe](http://shoppe-ecommerce.vercel.app)
+*   🚀  I'm currently working on migrating [Shoppe](https://shoppe-chi.vercel.app/) to Nuxt 3
 *   🧠  I'm learning NuxtJS, TypeScript, TailwindCSS
 *   🤝  I'm open to collaborating on really interesting and challenging projects😎
 *   ⚡  I'm a VueJS Lover through and through💚 and You'll always find me preaching its gospel😄
