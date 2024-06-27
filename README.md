@@ -1,7 +1,7 @@
 Hi 👋 My name is Victor Sanusi
 =======================================
 
-Frontend Engineer
+Frontend and Mobile Engineer
 -----------------
 
 I really care about doing great work and improving my craft over time and that's why you'll always find me on my computer taking on new challenges or learning something new and when I'm not doing either of the two, you'll find me listening to good music, watching movies or playing games.
@@ -9,8 +9,8 @@ I really care about doing great work and improving my craft over time and that's
 *   🌍  I'm currently based in Lagos, Nigeria
 *   🖥️  See my portfolio at [Personal Portfolio🚀](http://sanusi-victor.netlify.app)
 *   ✉️  You can contact me at [sanvicola2000@gmail.com](mailto:sanvicola2000@gmail.com)
-*   🚀  I'm currently building [Devlinks](https://devlinks-lac.vercel.app/) with Nuxt 3, Typescript, SCSS
-*   🧠  I'm always learning new stuffs coming out of the NuxtJS, VueJS ecosystem
+*   🚀  I'm currently learning React Native
+*   🧠  I'm like to keep up with new stuffs coming out of the NuxtJS, VueJS and now the *React* ecosystem
 *   🤝  I'm open to collaborating on really interesting and challenging projects😎
 *   ⚡  I'm a VueJS Lover through and through💚 and You'll always find me preaching its gospel😄
 
