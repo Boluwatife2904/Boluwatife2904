@@ -9,7 +9,7 @@ I really care about doing great work and improving my craft over time and that's
 *   🌍  I'm currently based in Lagos, Nigeria
 *   🖥️  See my portfolio at [Personal Portfolio🚀](http://sanusi-victor.netlify.app)
 *   ✉️  You can contact me at [sanvicola2000@gmail.com](mailto:sanvicola2000@gmail.com)
-*   🚀  I'm currently learning React Native
+*   🚀  I'm currently learning whatever I can lay my eyes on 👀
 *   🧠  I like to keep up with new stuffs coming out of the NuxtJS, VueJS and now the *React* ecosystem
 *   🤝  I'm open to collaborating on really interesting and challenging projects😎
 *   ⚡  I'm a VueJS Lover through and through💚 and You'll always find me preaching its gospel😄
