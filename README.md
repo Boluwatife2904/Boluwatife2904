@@ -1,8 +1,14 @@
 Hi 👋 My name is Victor Sanusi
 =======================================
 
-Software (Web and Mobile) Engineer
+Software Engineer (Web & Mobile)
 -----------------
+
+I'm a software engineer and creative developer with a focus on building seamless, interactive user experiences. I specialize in Vue, Nuxt, React, and Next.js, delivering fast, dynamic web applications. On the mobile side, I create cross-platform apps with React Native, ensuring smooth performance on both iOS and Android.
+
+In addition to my technical expertise, I’m a creative at heart, using tools like GSAP and Framer Motion to bring web applications to life with stunning animations and engaging interactions. I also have hands-on experience with Supabase, enabling efficient, serverless backend solutions.
+
+Whether it’s crafting beautiful web interfaces or building powerful mobile apps, I thrive on blending creativity with technical skills to deliver high-quality, user-centric solutions.
 
 I really care about doing great work and improving my craft over time and that's why you'll always find me on my computer taking on new challenges or learning something new and when I'm not doing either of the two, you'll find me listening to good music, watching movies or playing games.
 
